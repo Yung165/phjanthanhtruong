@@ -309,7 +309,14 @@ position: relative;
     .support3 .td-hot p{
         font-size: 25px;
     }
-   
+    /* .text-k::after{
+        content: "";
+        position: absolute;
+        border-bottom: 2px solid silver;
+        width: 30px;
+       margin-top: -15px;
+       margin-left: 370px;
+    } */
 .support4{
 margin-top: 20px;
     padding: 50px;
